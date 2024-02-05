@@ -1,0 +1,28 @@
+# premade pwershell image
+FROM mcr.microsoft.com/powershell:latest
+#setting virtual working directory
+WORKDIR /app
+#copying script and datasets to be run in workdir
+COPY Gowinda_Entropy0_run.ps1 /app/
+COPY Gowinda-1.12.jar /app/
+COPY dmel-all-r6.52.gtf /app/
+COPY funcassociate_go_associations.txt /app/
+COPY Entropy0_subcand_SNPS.txt /app/
+COPY Entropy0_cand_SNPS.vcf /app/
+COPY dgrp2.vcf /app/
+# task performed in virtual workdir
+
+# providing java development kit for the analysis to run using java
+RUN apt-get update && \
+    apt-get install -y openjdk-11-jdk && \
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/* && \
+    export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64 && \
+    export PATH=$JAVA_HOME/bin:$PATH
+# the command that runs when the container starts
+CMD ["pwsh", "./Gowinda_Entropy0_run.ps1"]
+
+
+# this dockerfile uses a prebuilt image (combination of codes,data,softwares) and copies it to the virtual working directory, then builds a container in the virtual environment using the next command: #docker build -t  gowinda-script-container .# by recognizing a file named Dockerfile
+# run the container to test on the local machine: #docker run gowinda-script-container 
+#  
