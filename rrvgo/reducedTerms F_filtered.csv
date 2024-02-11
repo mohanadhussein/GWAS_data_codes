@@ -1,0 +1,179 @@
+"go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0046907",211,"GO:0046907",0.98499,25,"intracellular transport","intracellular transport",0.9255,0.351666666666667,0
+"GO:0051726",227,"GO:0051726",0.98465,45,"regulation of cell cycle","regulation of cell cycle",0.900591315453384,0.31925,0
+"GO:0030154",130,"GO:0030154",0.97763,76,"cell differentiation","cell differentiation",0.900072796934866,0.411333333333333,0
+"GO:0007346",227,"GO:0051726",0.96714,38,"regulation of mitotic cell cycle","regulation of cell cycle",0.905300127713921,0.345,0.929
+"GO:0010564",227,"GO:0051726",0.95978,2,"regulation of cell cycle process","regulation of cell cycle",0.902901021711367,0.33425,0.954
+"GO:0019827",233,"GO:0019827",0.9587,7,"stem cell population maintenance","stem cell population maintenance",0.943035759897829,0.345666666666667,0
+"GO:0006886",158,"GO:0015031",0.94365,164,"intracellular protein transport","protein transport",0.920995530012771,0.2552,0.957
+"GO:0008354",212,"GO:0008354",0.94344,47,"germ cell migration","germ cell migration",0.923154533844189,0.312222222222222,0
+"GO:0019725",83,"GO:0060249",0.9399,1,"cellular homeostasis","anatomical structure homeostasis",0.990455300127714,0.246277777777778,0.756
+"GO:0008284",171,"GO:0008284",0.93217,52,"positive regulation of cell population proliferation","positive regulation of cell population proliferation",0.885272669220945,0.331285714285714,0
+"GO:0007166",123,"GO:0007166",0.92169,37,"cell surface receptor signaling pathway","cell surface receptor signaling pathway",0.855929118773946,0.349833333333333,0
+"GO:0042659",55,"GO:0042659",0.91699,11,"regulation of cell fate specification","regulation of cell fate specification",0.872792464878672,0.341,0
+"GO:0000278",214,"GO:0000278",0.91389,170,"mitotic cell cycle","mitotic cell cycle",0.968892720306513,0.3278,0
+"GO:0001708",55,"GO:0042659",0.91172,31,"cell fate specification","regulation of cell fate specification",0.925543422733078,0.344333333333333,0.888
+"GO:0007043",92,"GO:1904396",0.90786,5,"cell-cell junction assembly","regulation of neuromuscular junction development",0.941624521072797,0.248625,0.702
+"GO:0030718",233,"GO:0019827",0.90008,43,"germ-line stem cell population maintenance","stem cell population maintenance",0.944773307790549,0.356,0.966
+"GO:0010623",125,"GO:0010623",0.88932,8,"programmed cell death involved in cell development","programmed cell death involved in cell development",0.91161558109834,0.267714285714286,0
+"GO:0008361",221,"GO:0035150",0.88346,14,"regulation of cell size","regulation of tube size",0.894194763729246,0.279666666666667,0.809
+"GO:0048812",88,"GO:0048812",0.87848,16,"neuron projection morphogenesis","neuron projection morphogenesis",0.837320561941252,0.242333333333333,0
+"GO:0001709",55,"GO:0042659",0.86506,14,"cell fate determination","regulation of cell fate specification",0.924229885057471,0.3225,0.68
+"GO:0012501",43,"GO:0006915",0.86478,20,"programmed cell death","apoptotic process",0.96966411238825,0.271260869565217,0.951
+"GO:0045595",118,"GO:0045597",0.85265,9,"regulation of cell differentiation","positive regulation of cell differentiation",0.845997445721584,0.223368421052632,0.896
+"GO:0008360",135,"GO:0008360",0.85037,40,"regulation of cell shape","regulation of cell shape",0.862860791826309,0.341285714285714,0
+"GO:0045596",118,"GO:0045597",0.84096,3,"negative regulation of cell differentiation","positive regulation of cell differentiation",0.840071519795658,0.222315789473684,0.818
+"GO:0051302",9,"GO:0051302",0.83188,3,"regulation of cell division","regulation of cell division",0.923165389527459,0.372176470588235,0
+"GO:0044255",149,"GO:0008610",0.82767,7,"cellular lipid metabolic process","lipid biosynthetic process",0.931466794380587,0.276727272727273,0.857
+"GO:0045216",92,"GO:1904396",0.80811,8,"cell-cell junction organization","regulation of neuromuscular junction development",0.9450312899106,0.2655625,0.724
+"GO:0007427",212,"GO:0008354",0.80488,41,"epithelial cell migration, open tracheal system","germ cell migration",0.915016602809706,0.302,0.671
+"GO:0007157",5,"GO:0007157",0.79684,31,"heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.979233077905492,0.3366,0
+"GO:0022604",135,"GO:0008360",0.78066,3,"regulation of cell morphogenesis","regulation of cell shape",0.869042784163474,0.329571428571429,0.975
+"GO:0030307",73,"GO:0045927",0.77565,35,"positive regulation of cell growth","positive regulation of growth",0.863932311621967,0.262242424242424,0.9
+"GO:0010975",171,"GO:0008284",0.76644,2,"regulation of neuron projection development","positive regulation of cell population proliferation",0.807791187739464,0.288285714285714,0.797
+"GO:0045448",214,"GO:0000278",0.74689,7,"mitotic cell cycle, embryonic","mitotic cell cycle",0.91186717752235,0.4734,0.72
+"GO:0045787",227,"GO:0051726",0.74638,5,"positive regulation of cell cycle","regulation of cell cycle",0.895955938697318,0.388,0.84
+"GO:0046532",118,"GO:0045597",0.73653,2,"regulation of photoreceptor cell differentiation","positive regulation of cell differentiation",0.844733077905492,0.239842105263158,0.766
+"GO:0008219",43,"GO:0006915",0.73644,16,"cell death","apoptotic process",0.969686462324393,0.273913043478261,0.948
+"GO:0045664",118,"GO:0045597",0.73283,11,"regulation of neuron differentiation","positive regulation of cell differentiation",0.83912962962963,0.229210526315789,0.801
+"GO:0030705",120,"GO:0030705",0.73245,7,"cytoskeleton-dependent intracellular transport","cytoskeleton-dependent intracellular transport",0.937635376756066,0.379571428571429,0
+"GO:0008045",88,"GO:0048812",0.71728,81,"motor neuron axon guidance","neuron projection morphogenesis",0.866161558109834,0.338444444444444,0.769
+"GO:0044249",192,"GO:0009058",0.71328,2,"cellular biosynthetic process","biosynthetic process",0.906306513409962,0.3905,0.82
+"GO:0071456",141,"GO:0001666",0.68303,35,"cellular response to hypoxia","response to hypoxia",0.927915070242656,0.205571428571429,0.939
+"GO:0031344",171,"GO:0008284",0.66689,1,"regulation of cell projection organization","positive regulation of cell population proliferation",0.867802681992337,0.274142857142857,0.828
+"GO:0035556",23,"GO:0035556",0.66585,126,"intracellular signal transduction","intracellular signal transduction",0.85625159642401,0.31025,0
+"GO:0030030",171,"GO:0008284",0.652,2,"cell projection organization","positive regulation of cell population proliferation",0.928574712643678,0.343857142857143,0.701
+"GO:0042675",177,"GO:0001654",0.65148,11,"compound eye cone cell differentiation","eye development",0.907790549169859,0.419111111111111,0.684
+"GO:0071478",109,"GO:0009416",0.64896,1,"cellular response to radiation","response to light stimulus",0.938546615581098,0.295785714285714,0.877
+"GO:0007280",212,"GO:0008354",0.64828,24,"pole cell migration","germ cell migration",0.929586206896552,0.365555555555556,0.915
+"GO:0048870",212,"GO:0008354",0.61901,4,"cell motility","germ cell migration",0.97715006385696,0.250555555555556,0.798
+"GO:0043069",43,"GO:0006915",0.61671,11,"negative regulation of programmed cell death","apoptotic process",0.889965517241379,0.252521739130435,0.837
+"GO:0006873",83,"GO:0060249",0.6141,2,"intracellular monoatomic ion homeostasis","anatomical structure homeostasis",0.989954022988506,0.208111111111111,0.721
+"GO:0007155",5,"GO:0007157",0.60002,85,"cell adhesion","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.975591954022988,0.2896,0.774
+"GO:0016477",212,"GO:0008354",0.59869,63,"cell migration","germ cell migration",0.977240740740741,0.236333333333333,0.816
+"GO:0046533",118,"GO:0045597",0.59375,6,"negative regulation of photoreceptor cell differentiation","positive regulation of cell differentiation",0.834444444444444,0.233631578947368,0.708
+"GO:0033157",94,"GO:0070201",0.59217,2,"regulation of intracellular protein transport","regulation of establishment of protein localization",0.871402937420179,0.175052631578947,0.938
+"GO:0007298",212,"GO:0008354",0.5897,109,"border follicle cell migration","germ cell migration",0.877162835249042,0.237,0.732
+"GO:0045793",221,"GO:0035150",0.58184,48,"positive regulation of cell size","regulation of tube size",0.901863346104725,0.3215,0.752
+"GO:0010977",80,"GO:0060491",0.57924,2,"negative regulation of neuron projection development","regulation of cell projection assembly",0.822454022988506,0.292428571428571,0.732
+"GO:0000902",187,"GO:0009653",0.57008,57,"cell morphogenesis","anatomical structure morphogenesis",0.920945083014049,0.444333333333333,0.718
+"GO:0045165",55,"GO:0042659",0.56145,26,"cell fate commitment","regulation of cell fate specification",0.916058748403576,0.31325,0.75
+"GO:0007163",14,"GO:0007163",0.56108,24,"establishment or maintenance of cell polarity","establishment or maintenance of cell polarity",0.974350574712644,0.281526315789474,0
+"GO:0070727",158,"GO:0015031",0.56053,1,"cellular macromolecule localization","protein transport",0.925450191570881,0.2414,0.899
+"GO:0043067",43,"GO:0006915",0.5592,12,"regulation of programmed cell death","apoptotic process",0.904149425287356,0.23504347826087,0.895
+"GO:0042461",27,"GO:0042052",0.55552,13,"photoreceptor cell development","rhabdomere development",0.894526819923372,0.234714285714286,0.911
+"GO:0048666",219,"GO:0048731",0.55376,15,"neuron development","system development",0.875079821200511,0.482333333333333,0.725
+"GO:0001558",73,"GO:0045927",0.5527,14,"regulation of cell growth","positive regulation of growth",0.874074712643678,0.246727272727273,0.781
+"GO:0042127",171,"GO:0008284",0.54752,28,"regulation of cell population proliferation","positive regulation of cell population proliferation",0.895938058748404,0.276857142857143,0.897
+"GO:0044770",68,"GO:0044770",0.53881,1,"cell cycle phase transition","cell cycle phase transition",0.971388250319285,0.4035,0
+"GO:0007303",98,"GO:0007303",0.53187,13,"cytoplasmic transport, nurse cell to oocyte","cytoplasmic transport, nurse cell to oocyte",0.869989782886335,0.389,0
+"GO:0007156",5,"GO:0007157",0.53181,64,"homophilic cell adhesion via plasma membrane adhesion molecules","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.978081098339719,0.3039,0.853
+"GO:0010631",212,"GO:0008354",0.52871,1,"epithelial cell migration","germ cell migration",0.93960153256705,0.220111111111111,0.756
+"GO:0045477",43,"GO:0006915",0.52792,3,"regulation of nurse cell apoptotic process","apoptotic process",0.848599616858237,0.335217391304348,0.707
+"GO:0043068",43,"GO:0006915",0.52733,27,"positive regulation of programmed cell death","apoptotic process",0.8947969348659,0.261913043478261,0.804
+"GO:0042462",27,"GO:0042052",0.52312,3,"eye photoreceptor cell development","rhabdomere development",0.882880587484036,0.227142857142857,0.927
+"GO:0008347",139,"GO:0008347",0.52213,35,"glial cell migration","glial cell migration",0.906415070242656,0.3924,0
+"GO:0090162",14,"GO:0007163",0.5074,3,"establishment of epithelial cell polarity","establishment or maintenance of cell polarity",0.978461047254151,0.344368421052632,0.763
+"GO:0032388",94,"GO:0070201",0.50288,1,"positive regulation of intracellular transport","regulation of establishment of protein localization",0.863071519795658,0.221052631578947,0.787
+"GO:0032504",106,"GO:0007530",0.49348,43,"multicellular organism reproduction","sex determination",0.919744572158365,0.230090909090909,0.536
+"GO:0045665",118,"GO:0045597",0.48765,2,"negative regulation of neuron differentiation","positive regulation of cell differentiation",0.839701787994891,0.242052631578947,0.712
+"GO:0007297",212,"GO:0008354",0.48722,12,"follicle cell of egg chamber migration","germ cell migration",0.876122605363985,0.231111111111111,0.738
+"GO:0033554",153,"GO:0006974",0.48621,7,"cellular response to stress","DNA damage response",0.925265006385696,0.314666666666667,0.895
+"GO:0031290",88,"GO:0048812",0.47847,11,"retinal ganglion cell axon guidance","neuron projection morphogenesis",0.884294380587484,0.428777777777778,0.646
+"GO:0002064",175,"GO:0002064",0.47289,1,"epithelial cell development","epithelial cell development",0.903463601532567,0.419,0
+"GO:0042078",9,"GO:0051302",0.46372,16,"germ-line stem cell division","regulation of cell division",0.896215836526181,0.264764705882353,0.665
+"GO:0040018",73,"GO:0045927",0.45981,28,"positive regulation of multicellular organism growth","positive regulation of growth",0.859546615581098,0.322727272727273,0.856
+"GO:0048468",130,"GO:0030154",0.45543,5,"cell development","cell differentiation",0.895786079182631,0.427,0.857
+"GO:0016043",104,"GO:0071840",0.45238,5,"cellular component organization","cellular component organization or biogenesis",0.929987867177522,0.45375,0.842
+"GO:0035072",43,"GO:0006915",0.44883,15,"ecdysone-mediated induction of salivary gland cell autophagic cell death","apoptotic process",0.806427203065134,0.315869565217391,0.674
+"GO:0035089",14,"GO:0007163",0.44497,2,"establishment of apical/basal cell polarity","establishment or maintenance of cell polarity",0.978521072796935,0.298842105263158,0.725
+"GO:0090316",94,"GO:0070201",0.44493,3,"positive regulation of intracellular protein transport","regulation of establishment of protein localization",0.863505747126437,0.180157894736842,0.894
+"GO:0045785",5,"GO:0007157",0.44326,4,"positive regulation of cell adhesion","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.908176883780332,0.27765,0.628
+"GO:0007501",55,"GO:0042659",0.43981,5,"mesodermal cell fate specification","regulation of cell fate specification",0.907636653895275,0.464833333333333,0.711
+"GO:0048168",36,"GO:0007268",0.43142,3,"regulation of neuronal synaptic plasticity","chemical synaptic transmission",0.903572796934866,0.335545454545455,0.696
+"GO:0046669",125,"GO:0010623",0.4219,2,"regulation of compound eye retinal cell programmed cell death","programmed cell death involved in cell development",0.842856960408685,0.183428571428571,0.857
+"GO:0022409",5,"GO:0007157",0.41982,9,"positive regulation of cell-cell adhesion","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.910567049808429,0.24805,0.682
+"GO:0007279",6,"GO:0030703",0.40996,24,"pole cell formation","eggshell formation",0.896935504469987,0.420363636363636,0.572
+"GO:0045676",118,"GO:0045597",0.39286,9,"regulation of R7 cell differentiation","positive regulation of cell differentiation",0.840564495530013,0.258789473684211,0.731
+"GO:0008298",121,"GO:0006403",0.37967,29,"intracellular mRNA localization","RNA localization",0.93575159642401,0.210777777777778,0.935
+"GO:0021954",138,"GO:0021954",0.37934,2,"central nervous system neuron development","central nervous system neuron development",0.916581098339719,0.646,0
+"GO:0007281",106,"GO:0007530",0.37782,55,"germ cell development","sex determination",0.86881098339719,0.218454545454545,0.61
+"GO:0007267",36,"GO:0007268",0.37286,6,"cell-cell signaling","chemical synaptic transmission",0.891459131545338,0.357909090909091,0.928
+"GO:1903531",17,"GO:1903531",0.37134,1,"negative regulation of secretion by cell","negative regulation of secretion by cell",0.867994252873563,0.3271875,0
+"GO:0030308",73,"GO:0045927",0.37018,17,"negative regulation of cell growth","positive regulation of growth",0.870853767560664,0.297424242424242,0.704
+"GO:0030713",175,"GO:0002064",0.36187,12,"follicle cell of egg chamber stalk formation","epithelial cell development",0.894390166028097,0.50775,0.729
+"GO:0035264",73,"GO:0045927",0.36117,11,"multicellular organism growth","positive regulation of growth",0.934147509578544,0.331,0.693
+"GO:0060811",121,"GO:0006403",0.35568,1,"intracellular mRNA localization involved in anterior/posterior axis specification","RNA localization",0.86935312899106,0.208,0.911
+"GO:0060810",121,"GO:0006403",0.35568,5,"intracellular mRNA localization involved in pattern specification process","RNA localization",0.870288633461047,0.207777777777778,0.914
+"GO:0048667",187,"GO:0009653",0.35554,1,"cell morphogenesis involved in neuron differentiation","anatomical structure morphogenesis",0.871267560664112,0.453666666666667,0.69
+"GO:0032386",94,"GO:0070201",0.35549,3,"regulation of intracellular transport","regulation of establishment of protein localization",0.869424010217114,0.195473684210526,0.838
+"GO:0048172",36,"GO:0007268",0.35281,8,"regulation of short-term neuronal synaptic plasticity","chemical synaptic transmission",0.907086206896552,0.356636363636364,0.667
+"GO:0016322",25,"GO:0016322",0.34619,48,"neuron remodeling","neuron remodeling",0.898627713920817,0.278571428571429,0
+"GO:0009267",183,"GO:0009605",0.3448,68,"cellular response to starvation","response to external stimulus",0.926098978288634,0.292,0.682
+"GO:0031669",183,"GO:0009605",0.3448,2,"cellular response to nutrient levels","response to external stimulus",0.9302030651341,0.289,0.686
+"GO:0060250",83,"GO:0060249",0.34393,23,"germ-line stem-cell niche homeostasis","anatomical structure homeostasis",0.957298850574713,0.368333333333333,0.899
+"GO:0034116",5,"GO:0007157",0.33491,2,"positive regulation of heterotypic cell-cell adhesion","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.921450191570881,0.3163,0.602
+"GO:0034110",5,"GO:0007157",0.33491,3,"regulation of homotypic cell-cell adhesion","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.93152809706258,0.3061,0.635
+"GO:0098742",5,"GO:0007157",0.3332,1,"cell-cell adhesion via plasma-membrane adhesion molecules","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.976996168582375,0.2735,0.894
+"GO:0008594",27,"GO:0042052",0.31932,13,"photoreceptor cell morphogenesis","rhabdomere development",0.903944444444444,0.329857142857143,0.776
+"GO:0045467",27,"GO:0042052",0.31168,17,"R7 cell development","rhabdomere development",0.899303959131545,0.315,0.804
+"GO:0035088",14,"GO:0007163",0.30927,10,"establishment or maintenance of apical/basal cell polarity","establishment or maintenance of cell polarity",0.977352490421456,0.325368421052632,0.834
+"GO:0030010",14,"GO:0007163",0.3055,10,"establishment of cell polarity","establishment or maintenance of cell polarity",0.976005747126437,0.279052631578947,0.866
+"GO:0030707",175,"GO:0002064",0.3042,77,"follicle cell of egg chamber development","epithelial cell development",0.872787356321839,0.41775,0.981
+"GO:0098609",5,"GO:0007157",0.29181,64,"cell-cell adhesion","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.975882503192848,0.2539,0.83
+"GO:0008283",171,"GO:0008284",0.28995,7,"cell population proliferation","positive regulation of cell population proliferation",0.962863346104725,0.354857142857143,0.722
+"GO:0016339",5,"GO:0007157",0.28597,26,"calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.979473818646232,0.34385,0.8
+"GO:0045197",14,"GO:0007163",0.27327,22,"establishment or maintenance of epithelial cell apical/basal polarity","establishment or maintenance of cell polarity",0.977917624521073,0.340105263157895,0.809
+"GO:0006874",83,"GO:0060249",0.26233,28,"intracellular calcium ion homeostasis","anatomical structure homeostasis",0.990247765006386,0.241111111111111,0.673
+"GO:0030155",5,"GO:0007157",0.25995,4,"regulation of cell adhesion","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.919419540229885,0.24895,0.666
+"GO:0007300",98,"GO:0007303",0.25706,11,"ovarian nurse cell to oocyte transport","cytoplasmic transport, nurse cell to oocyte",0.866661558109834,0.413,0.927
+"GO:0043063",154,"GO:0043062",0.25327,2,"intercellular bridge organization","extracellular structure organization",0.957395913154534,0.2875,0.879
+"GO:0071479",109,"GO:0009416",0.24669,3,"cellular response to ionizing radiation","response to light stimulus",0.94483908045977,0.312214285714286,0.771
+"GO:0006081",82,"GO:0006081",0.23277,4,"cellular aldehyde metabolic process","cellular aldehyde metabolic process",0.952084929757344,0.556,0
+"GO:0046666",125,"GO:0010623",0.22607,5,"retinal cell programmed cell death","programmed cell death involved in cell development",0.891113026819923,0.192,0.892
+"GO:0071480",109,"GO:0009416",0.22572,13,"cellular response to gamma radiation","response to light stimulus",0.947067049808429,0.331285714285714,0.735
+"GO:0051321",8,"GO:1903046",0.22034,31,"meiotic cell cycle","meiotic cell cycle process",0.93959067688378,0.2925,0.981
+"GO:0060326",78,"GO:0040017",0.20561,2,"cell chemotaxis","positive regulation of locomotion",0.930461685823755,0.278272727272727,0.686
+"GO:0060253",139,"GO:0008347",0.19864,7,"negative regulation of glial cell proliferation","glial cell migration",0.841114303959132,0.2722,0.739
+"GO:0007154",54,"GO:0010648",0.19626,6,"cell communication","negative regulation of cell communication",0.943650702426564,0.485,0.654
+"GO:0048133",9,"GO:0051302",0.19342,8,"male germ-line stem cell asymmetric division","regulation of cell division",0.906869093231162,0.294117647058823,0.591
+"GO:0045217",62,"GO:0034331",0.19335,2,"cell-cell junction maintenance","cell junction maintenance",0.952902937420179,0.380333333333333,0.932
+"GO:0046667",125,"GO:0010623",0.19264,9,"compound eye retinal cell programmed cell death","programmed cell death involved in cell development",0.892305236270754,0.193142857142857,0.882
+"GO:1904580",121,"GO:0006403",0.18686,3,"regulation of intracellular mRNA localization","RNA localization",0.8755,0.243,0.823
+"GO:0016319",131,"GO:0048036",0.18602,91,"mushroom body development","central complex development",0.919956577266922,0.435333333333333,0.768
+"GO:0007275",130,"GO:0030154",0.18273,26,"multicellular organism development","cell differentiation",0.900617496807152,0.4815,0.556
+"GO:0040015",73,"GO:0045927",0.17544,13,"negative regulation of multicellular organism growth","positive regulation of growth",0.864902937420179,0.357939393939394,0.668
+"GO:0044331",5,"GO:0007157",0.1711,14,"cell-cell adhesion mediated by cadherin","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.980245849297573,0.37545,0.685
+"GO:0046672",125,"GO:0010623",0.17107,8,"positive regulation of compound eye retinal cell programmed cell death","programmed cell death involved in cell development",0.835029374201788,0.199714285714286,0.819
+"GO:0045849",43,"GO:0006915",0.1709,2,"negative regulation of nurse cell apoptotic process","apoptotic process",0.849126436781609,0.374478260869565,0.631
+"GO:0070252",84,"GO:0070252",0.16344,5,"actin-mediated cell contraction","actin-mediated cell contraction",0.981019157088123,0.27625,0
+"GO:0040014",73,"GO:0045927",0.15998,15,"regulation of multicellular organism growth","positive regulation of growth",0.86854214559387,0.307212121212121,0.745
+"GO:0071390",96,"GO:1901701",0.15371,14,"cellular response to ecdysone","cellular response to oxygen-containing compound",0.934342273307791,0.18425,0.812
+"GO:0035232",78,"GO:0040017",0.15357,3,"germ cell attraction","positive regulation of locomotion",0.891964878671775,0.293,0.621
+"GO:0051301",9,"GO:0051302",0.1529,9,"cell division","regulation of cell division",0.976058748403576,0.252705882352941,0.79
+"GO:0045677",118,"GO:0045597",0.15134,8,"negative regulation of R7 cell differentiation","positive regulation of cell differentiation",0.829272030651341,0.245052631578947,0.685
+"GO:0051450",114,"GO:0051450",0.13546,3,"myoblast proliferation","myoblast proliferation",0.977610472541507,1,0
+"GO:0008285",80,"GO:0060491",0.11683,50,"negative regulation of cell population proliferation","regulation of cell projection assembly",0.888697956577267,0.329142857142857,0.718
+"GO:0019749",98,"GO:0007303",0.11565,3,"cytoskeleton-dependent cytoplasmic transport, nurse cell to oocyte","cytoplasmic transport, nurse cell to oocyte",0.882628991060026,0.42,0.906
+"GO:0008038",50,"GO:0016198",0.11385,6,"neuron recognition","axon choice point recognition",0.895038952745849,0.232,0.881
+"GO:0022407",5,"GO:0007157",0.10552,2,"regulation of cell-cell adhesion","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.921669859514687,0.2194,0.721
+"GO:0061172",14,"GO:0007163",0.1037,1,"regulation of establishment of bipolar cell polarity","establishment or maintenance of cell polarity",0.936462962962963,0.393526315789474,0.63
+"GO:0007162",5,"GO:0007157",0.09441,4,"negative regulation of cell adhesion","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.909110472541507,0.2803,0.615
+"GO:0044237",37,"GO:0044237",0.09183,2,"cellular metabolic process","cellular metabolic process",0.911498722860792,0.531,0
+"GO:0036335",83,"GO:0060249",0.08788,38,"intestinal stem cell homeostasis","anatomical structure homeostasis",0.955689655172414,0.340833333333333,0.859
+"GO:0048132",9,"GO:0051302",0.07439,20,"female germ-line stem cell asymmetric division","regulation of cell division",0.901125798212005,0.253588235294118,0.627
+"GO:0008315",68,"GO:0044770",0.07316,4,"G2/MI transition of meiotic cell cycle","cell cycle phase transition",0.954886334610473,0.3585,0.74
+"GO:0045167",55,"GO:0042659",0.06115,21,"asymmetric protein localization involved in cell fate determination","regulation of cell fate specification",0.895968071519796,0.405666666666667,0.589
+"GO:0045168",55,"GO:0042659",0.05826,1,"cell-cell signaling involved in cell fate commitment","regulation of cell fate specification",0.879507024265645,0.427916666666667,0.569
+"GO:0017145",9,"GO:0051302",0.05653,3,"stem cell division","regulation of cell division",0.978456577266922,0.256235294117647,0.681
+"GO:0048103",9,"GO:0051302",0.05081,2,"somatic stem cell division","regulation of cell division",0.982168582375479,0.375647058823529,0.566
+"GO:0008356",9,"GO:0051302",0.02796,28,"asymmetric cell division","regulation of cell division",0.977478927203065,0.243235294117647,0.72
+"GO:0045463",27,"GO:0042052",0.02561,12,"R8 cell development","rhabdomere development",0.901967432950192,0.328714285714286,0.786
+"GO:0030709",5,"GO:0007157",0.01988,5,"border follicle cell delamination","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.845102171136654,0.28695,0.635
+"GO:0090136",5,"GO:0007157",0.0178,3,"epithelial cell-cell adhesion","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.980687739463602,0.3766,0.662
+"GO:0032878",14,"GO:0007163",0.01194,1,"regulation of establishment or maintenance of cell polarity","establishment or maintenance of cell polarity",0.933109833971903,0.413263157894737,0.677
+"GO:2000114",14,"GO:0007163",0.01194,1,"regulation of establishment of cell polarity","establishment or maintenance of cell polarity",0.933855044699872,0.372052631578947,0.659
+"GO:0098586",13,"GO:0009607",0.0113,10,"cellular response to virus","response to biotic stimulus",0.961714559386973,0.357181818181818,0.61
+"GO:0098722",9,"GO:0051302",0.00849,2,"asymmetric stem cell division","regulation of cell division",0.979054278416347,0.238,0.644
+"GO:0007349",6,"GO:0030703",0.00637,46,"cellularization","eggshell formation",0.919417624521073,0.348636363636364,0.652
+"GO:0007299",5,"GO:0007157",0.00631,6,"follicle cell of egg chamber-cell adhesion","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.899359514687101,0.39425,0.642
